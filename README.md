@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sierra Latonnel
-Latonnel
+Name: Sierra Latonnel
+Major: Computer Science 
+Expected Graduation Date: 2027
